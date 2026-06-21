@@ -1,0 +1,12 @@
+{
+  "name": "StudyBot AI Platform",
+  "description": "An AI-powered academic learning platform featuring study chatbots, media libraries, dynamic educational resource pages, and audio-assisted interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
